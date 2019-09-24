@@ -1,0 +1,40 @@
+table {
+     border-collapse: collapse;
+     width: 50%;
+}
+ td {
+     width: 15%;
+}
+ table, th, td, tr {
+     border: 1px solid #A0A0A0;
+     text-align: left;
+     padding: 10px;
+     margin: auto;
+}
+ td.a, th.a {
+     background-color: #F0F0F0;
+}
+ .b {
+     background-color: #FF6347;
+}
+ .c {
+     background-color: #FFA500;
+}
+ .d {
+     background-color: #1E90FF;
+}
+ .e {
+     background-color: #3CB371;
+}
+ .f {
+     background-color: #808080;
+}
+ .g {
+     background-color: #6A5ACD;
+}
+ .h {
+     background-color: #EE82EE;
+}
+ .i {
+     background-color: #D3D3D3;
+}
